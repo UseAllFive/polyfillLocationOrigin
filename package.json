@@ -1,6 +1,6 @@
 {
   "name": "polyfillLocationOrigin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Poyfill for window.location.origin",
   "repository": {
     "type": "git",
