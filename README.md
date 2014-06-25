@@ -11,4 +11,4 @@ Repository: https://github.com/UseAllFive/polyfillLocationOrigin
 Poyfill for `window.location.origin`
 
 ### To Use
-Include this file before you application attempts to use the `window.location.origin` value
+Include this file before your application attempts to use the `window.location.origin` value
